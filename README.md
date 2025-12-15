@@ -12,7 +12,7 @@ Clean Architecture: Separation of concerns with distinct layers
 Input Validation: FluentValidation for request validation
 Error Handling: Graceful error responses with detailed messages
 
-🛠 Tech Stack
+Tech Stack
 
 .NET 9 - Latest LTS framework
 ASP.NET Core Web API - RESTful API framework
