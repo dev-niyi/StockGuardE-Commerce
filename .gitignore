@@ -1,0 +1,17 @@
+ 
+bin/
+obj/
+.vs/
+
+*.user
+*.suo
+
+packages/
+*.nupkg
+
+*.mdf
+*.ldf
+*.db
+
+
+*.log
